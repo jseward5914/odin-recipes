@@ -1,0 +1,1 @@
+This is a project where I will be creating a website following a tutorial on the Odin Project. It will be about recipes.
