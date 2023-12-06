@@ -1,0 +1,28 @@
+h1 {
+ text-decoration: underline;
+ background-color: black;   
+}
+
+h2 {
+    background-color: gray;
+    
+}
+
+h1,
+h2 {
+    font-family: "Brush Script MT", Helvetica;
+    font-weight: bold;
+    text-align: center;
+    color: white;
+    padding: 5px;
+}
+
+p,
+li {
+    font-family: sans-serif;
+    
+}
+
+img {
+    width: 100%;
+}
